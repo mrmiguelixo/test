@@ -1,5 +1,4 @@
-# test
+credenciales para conectarme a la BD
 
-
-solucion de la wea
-
+BDname=asdasd
+BDpassword=asdad
